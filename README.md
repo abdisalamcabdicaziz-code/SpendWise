@@ -9,7 +9,7 @@ SpendWise is a responsive web application designed to help users track their inc
 - Netlify (Hosting & Continuous Deployment)
 
 ## GitHub Repository Information
-- **Repository URL:** https://github.com/sulekhoabdi1/SpendWise
+- **Repository URL:** https://github.com/abdisalamcabdicaziz/SpendWise
 - **Visibility:** Public
 - **Main Branch:** `main`
 
